@@ -14,9 +14,8 @@ Soy **Agustín Bernardo Peredo Rodríguez**, estudiante de **Informática** y de
 
 ✔ Pregunta lo que quieras, estaré encantado de ayudar, ¡siempre y cuando dependa de mí!😉
 
-Fuera del ámbito tecnológico, 📖 me encanta leer novelas, 🖌️ pintar y hacer bocetos, 🎵 escuchar música, y 🌴 explorar la naturaleza al aire libre.
 
-📫 **Puedes contactarme en**: <a href="mailto:bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
+📫 **Puedes contactarme en**: <a href="mailto:wawxper08@gmail.com">wawxper08@gmail.com</a>
 
   <h1 align="center">TECHNOLOGY</h1>
 
