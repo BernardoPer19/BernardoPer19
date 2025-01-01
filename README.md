@@ -2,5 +2,5 @@
 
 
 
-![My github status](https://github-readme-stats.vercel.app/api?username=BernardoPer19-hash&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoPer19-hash&layout=compact)
+![My github status](https://github-readme-stats.vercel.app/api?username=BernardoPer19&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoPer19&layout=compact)
