@@ -50,6 +50,6 @@ Fuera del ámbito tecnológico, 📖 me encanta leer novelas, 🖌️ pintar y h
 ## 📊 Mis estadísticas en GitHub
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BernardoPer19)](https://github.com/BernardoPer19/github-readme-stats)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoPer19&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoPer19&hide_progress=false&layout=compact)
 
 </div>
