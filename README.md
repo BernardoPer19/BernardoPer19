@@ -45,9 +45,25 @@ Fuera del ámbito tecnológico, 📖 me encanta leer novelas, 🖌️ pintar y h
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="filter: invert(2); height: 4rem; background-color: white;" />
 </p>
 
-<h3 align="center">Stats:</h3>
+## 📊 Mis estadísticas en GitHub
 
-![My github status](https://github-readme-stats.vercel.app/api?username=BernardoPer19&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoPer19&layout=compact)
+
+¡Colocar tus contribuciones en tu README de GitHub es una excelente idea! Aquí tienes los pasos detallados para agregar estas estadísticas:
+
+1. Editar tu README
+Ve a tu perfil de GitHub y haz clic en tu repositorio con el nombre igual a tu usuario (por ejemplo, BernardoPer19/BernardoPer19). Este repositorio se utiliza para mostrar tu perfil en GitHub.
+Si no tienes un repositorio con tu nombre de usuario, créalo y asegúrate de que sea público.
+2. Agregar los widgets
+Abre o crea un archivo llamado README.md en ese repositorio.
+Agrega el siguiente código para mostrar tus contribuciones y los lenguajes principales:
+markdown
+Copiar código
+## 📊 Mis estadísticas en GitHub
+
+
+
+
+![Tema claro](https://github-readme-stats.vercel.app/api?username=BernardoPer19&show_icons=true&theme=default)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoPer19&layout=compact)
 
 </div>
