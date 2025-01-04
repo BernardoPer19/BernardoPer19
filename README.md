@@ -13,14 +13,12 @@ Me apasiona **aprender** y **crear soluciones innovadoras**, productivas y creat
 
 💼 **Mis intereses incluyen**:
   - **Diseño web**
-  - **Desarrollo de Android**
+  - **Desarrollo de Aplicaiones Web**
   - **Marketing digital**
 
-👯 Estoy buscando colaborar en proyectos de **código abierto** y también como **freelance**. Me gusta trabajar en equipo y compartir ideas para lograr soluciones eficaces y bien estructuradas.
+👯 Estoy buscando colaborar en proyectos de **código abierto o cerrado** y también como **freelance**. Me gusta trabajar en equipo y compartir ideas para lograr soluciones eficaces y bien estructuradas.
 
 ✔ **Pregunta lo que quieras**, estaré encantado de ayudar, ¡siempre y cuando dependa de mí! 😉
-
-Fuera del ámbito tecnológico, 📖 me encanta leer novelas, 🖌️ pintar y hacer bocetos, 🎵 escuchar música, y 🌴 explorar la naturaleza al aire libre.
 
 📫 **Puedes contactarme en**: <a href="mailto:wawxper08@gmail.com">wawxper08@gmail.com</a>
 
