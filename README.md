@@ -48,5 +48,6 @@ Me apasiona **aprender** y **crear soluciones innovadoras**, productivas y creat
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BernardoPer19)](https://github.com/BernardoPer19/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoPer19&hide_progress=false&layout=compact)
+[![trophy](https://github-profile-trophy.vercel.app/?username=BernardoPer19&theme=gruvbox&rank=SECRET,SSS,SS,S&no-bg=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
