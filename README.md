@@ -2,7 +2,7 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-Soy **Agustín Bernardo Peredo Rodríguez**, un **desarrollador junior** con más de 6 meses de experiencia en **desarrollo frontend**. Tengo un título de **técnico medio en sistemas informáticos**, con especialización y excelencia en **desarrollo web**. Actualmente, trabajo principalmente con **ReactJS y NextJS** con **TypeScript**, y tengo conocimientos básicos en **Java**.
+Soy **Agustín Bernardo Peredo Rodríguez**, un **desarrollador junior** con más de 8 meses de experiencia en **desarrollo frontend**. Tengo un título de **técnico medio en sistemas informáticos**, con especialización y excelencia en **desarrollo web**. Actualmente, trabajo principalmente con **ReactJS y NextJS** con **TypeScript**, y tengo conocimientos básicos en **Java**.
 
 Me apasiona **aprender** y **crear soluciones innovadoras**, productivas y creativas, lo que me impulsa a seguir mejorando cada día en el mundo de la programación.
 
