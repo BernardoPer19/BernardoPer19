@@ -7,8 +7,9 @@ Soy **Agustín Bernardo Peredo Rodríguez**, un **desarrollador junior** con má
 Me apasiona **aprender** y **crear soluciones innovadoras**, productivas y creativas, lo que me impulsa a seguir mejorando cada día en el mundo de la programación.
 
 🌱 **Actualmente estoy aprendiendo...**
-  - **Java**
-  - **Next.js (haciendo proyectos con TS y Prisma para el Backend)**
+  - **Java(universidad)**
+  - NodeJs y ExpressJS
+  - **Next.js (estoy haciendo proyectos con TS, NextJS  y Prisma para el Backend)**
 
 💼 **Mis intereses incluyen**:
   - **Diseño web**
