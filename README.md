@@ -8,8 +8,7 @@ Me apasiona **aprender** y **crear soluciones innovadoras**, productivas y creat
 
 🌱 **Actualmente estoy aprendiendo...**
   - **Java(universidad)**
-  - NodeJs y ExpressJS
-  - **Next.js (estoy haciendo proyectos con TS, NextJS  y Prisma para el Backend)**
+  - Full-Stack con **Front-End: React, TypeScript, Tawilind** y **Back-End: NodeJS,ExpressJS y PostgreSQL**
 
 💼 **Mis intereses incluyen**:
   - **Diseño web**
