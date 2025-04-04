@@ -8,7 +8,7 @@ Me apasiona **aprender** y **crear soluciones innovadoras**, productivas y creat
 
 🌱 **Actualmente estoy aprendiendo...**
   - **Java(universidad)**
-  - Full-Stack con **Front-End: React, TypeScript, Tawilind** y **Back-End: NodeJS,ExpressJS y PostgreSQL**
+  - Full-Stack con **React, TypeScript, Tawilind** y **NodeJS,ExpressJS y PostgreSQL**
 
 💼 **Mis intereses incluyen**:
   - **Diseño web**
