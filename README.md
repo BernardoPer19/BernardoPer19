@@ -22,7 +22,13 @@ Me apasiona **aprender** y **crear soluciones innovadoras**, productivas y creat
 📫 **Puedes contactarme en**: <a href="mailto:wawxper08@gmail.com">wawxper08@gmail.com</a>
 
 <h1 align="center">TECHNOLOGY</h1>
+<br>
+<br>
+
 <h1 >🖥️ Front-End</h1>
+<br>
+<br>
+
 <p >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="height: 4rem"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="height: 4rem"/>
@@ -35,8 +41,9 @@ Me apasiona **aprender** y **crear soluciones innovadoras**, productivas y creat
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" style="height: 4rem;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" alt="Astro" style="height: 4rem;" />
 </p>
-
-<1h1 >⚙️ Back-End</h1>
+<br>
+<h1>⚙️ Back-End</h1>
+<br>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="height: 4rem" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="height: 4rem; background-color:white" alt="Express"/>
@@ -44,7 +51,11 @@ Me apasiona **aprender** y **crear soluciones innovadoras**, productivas y creat
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" style="height: 4rem" alt="Jest"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" style="height: 4rem;" />
 </p>
+<br>
 <h1 >🗄️ Databases & ORM</h1>
+<br>
+<br>
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="height: 4rem" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="height: 4rem" alt="PostgreSQL"/>
@@ -52,7 +63,10 @@ Me apasiona **aprender** y **crear soluciones innovadoras**, productivas y creat
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="height: 4rem;" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" style="height: 4rem;" alt="SQLite"/>
 </p>
+<br>
+
 <h1>🛠️ Tools</h1>
+<br>
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height: 4rem" alt="Git"/>
@@ -63,7 +77,7 @@ Me apasiona **aprender** y **crear soluciones innovadoras**, productivas y creat
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" style="height: 4rem;" alt="Slack"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="height: 4rem;" alt="Visual Studio"/>
 </p>
-
+<br>
 
 ## 📊 Mis estadísticas en GitHub
 
