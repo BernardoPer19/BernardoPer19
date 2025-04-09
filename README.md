@@ -22,11 +22,7 @@ Me apasiona **aprender** y **crear soluciones innovadoras**, productivas y creat
 📫 **Puedes contactarme en**: <a href="mailto:wawxper08@gmail.com">wawxper08@gmail.com</a>
 
 <h1 align="center">TECHNOLOGY</h1>
-
-
-
-<h3 >🖥️ Front-End</h3>
-
+<h1 >🖥️ Front-End</h1>
 <p >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="height: 4rem"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="height: 4rem"/>
@@ -38,15 +34,9 @@ Me apasiona **aprender** y **crear soluciones innovadoras**, productivas y creat
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 4rem"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" style="height: 4rem;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" alt="Astro" style="height: 4rem;" />
-  
 </p>
 
-<br>
-<h1></h1>
-<br>
-
-<h3 >⚙️ Back-End</h3>
-
+<1h1 >⚙️ Back-End</h1>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="height: 4rem" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="height: 4rem; background-color:white" alt="Express"/>
@@ -54,27 +44,15 @@ Me apasiona **aprender** y **crear soluciones innovadoras**, productivas y creat
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" style="height: 4rem" alt="Jest"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" style="height: 4rem;" />
 </p>
-
-<br>
-<h1></h1>
-<br>
-
-<h3 >🗄️ Databases & ORM</h3>
-
+<h1 >🗄️ Databases & ORM</h1>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="height: 4rem" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="height: 4rem" alt="PostgreSQL"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" style="height: 4rem" alt="Prisma"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="height: 4rem;" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" style="height: 4rem;" alt="SQLite"/>
-
 </p>
-
-<br>
-<h1></h1>
-<br>
-
-<h3 >🛠️ Tools</h3>
+<h1>🛠️ Tools</h1>
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height: 4rem" alt="Git"/>
