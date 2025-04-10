@@ -27,8 +27,6 @@ Me apasiona **aprender** y **crear soluciones innovadoras**, productivas y creat
 
 <h1 >🖥️ Front-End</h1>
 <br>
-<br>
-
 <p >
   <img src="https://skillicons.dev/icons?i=,html,css,js,tailwind,bootstrap,js,ts,react,nextjs,astro" />
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="height: 4rem"/>
@@ -42,41 +40,37 @@ Me apasiona **aprender** y **crear soluciones innovadoras**, productivas y creat
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" style="height: 4rem;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" alt="Astro" style="height: 4rem;" /> -->
 </p>
-<br>
 <h1>⚙️ Back-End</h1>
 <br>
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="height: 4rem" alt="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=,nodejs,express,firebase,jest,java" />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="height: 4rem" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="height: 4rem; background-color:white" alt="Express"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" style="height: 4rem;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" style="height: 4rem" alt="Jest"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" style="height: 4rem;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" style="height: 4rem;" /> -->
 </p>
-<br>
 <h1 >🗄️ Databases & ORM</h1>
-<br>
-<br>
-
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="height: 4rem" alt="MySQL"/>
+    <img src="https://skillicons.dev/icons?i=,postgres,mysql,sqlite,prisma,firebase" />
+<!--
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="height: 4rem" alt="PostgreSQL"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" style="height: 4rem" alt="Prisma"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="height: 4rem;" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" style="height: 4rem;" alt="SQLite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" style="height: 4rem;" alt="SQLite"/> -->
 </p>
-<br>
 
 <h1>🛠️ Tools</h1>
-<br>
-
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height: 4rem" alt="Git"/>
+     <img src="https://skillicons.dev/icons?i=,git,github,visualstudio,vercel,materialui,npm,wordpress,slack" />
+
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height: 4rem" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="filter: invert(2); height: 4rem; background-color: white;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" style="height: 4rem"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" style="height: 4rem"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" style="height: 4rem;" alt="WordPress"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" style="height: 4rem;" alt="Slack"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="height: 4rem;" alt="Visual Studio"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="height: 4rem;" alt="Visual Studio"/> -->
 </p>
 <br>
 
