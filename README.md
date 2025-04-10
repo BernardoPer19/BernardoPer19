@@ -30,7 +30,8 @@ Me apasiona **aprender** y **crear soluciones innovadoras**, productivas y creat
 <br>
 
 <p >
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="height: 4rem"/>
+  <img src="https://skillicons.dev/icons?i=,html,css,js,tailwind,bootstrap,js,ts,react,nextjs,astro" />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="height: 4rem"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="height: 4rem"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" style="height: 4rem;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" style="height: 4rem"/>
@@ -39,7 +40,7 @@ Me apasiona **aprender** y **crear soluciones innovadoras**, productivas y creat
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style="height: 4rem; background-color:white"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 4rem"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" style="height: 4rem;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" alt="Astro" style="height: 4rem;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" alt="Astro" style="height: 4rem;" /> -->
 </p>
 <br>
 <h1>⚙️ Back-End</h1>
