@@ -79,7 +79,7 @@ Me apasiona **aprender** y **crear soluciones innovadoras**, productivas y creat
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BernardoPer19)](https://github.com/BernardoPer19/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoPer19&hide_progress=false&layout=compact)
-[![BernardoPer19 GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BernardoPer19&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=f0883e&area=true&hide_border=true&from=2025-03-31&to=2025-04-09)](https://github.com/BernardoPer19/github-readme-activity-graph)
+[![BernardoPer19 GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BernardoPer19&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=f0883e&area=true&hide_border=true&from=2025-04-18&to=2025-04-24)](https://github.com/BernardoPer19/github-readme-activity-graph)
 
 
 </div>
