@@ -29,7 +29,7 @@ Me apasiona **aprender** y **crear soluciones innovadoras**, productivas y creat
 <h1 >🖥️ Front-End</h1>
 <br>
 <p >
-  <img src="https://skillicons.dev/icons?i=,html,css,js,tailwind,bootstrap,js,ts,react,nextjs,astro" />
+  <img src="https://skillicons.dev/icons?i=,html,css,js,tailwind,bootstrap,ts,react,nextjs,astro" />
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="height: 4rem"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="height: 4rem"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" style="height: 4rem;" />
