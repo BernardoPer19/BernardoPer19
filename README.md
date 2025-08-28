@@ -1,23 +1,33 @@
-<h1 align="center">Hola, Soy Bernardo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hola, Soy Agustín! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-Soy **Agustín Bernardo Peredo Rodríguez**, un **desarrollador junior** con más de 1 año de experiencia en **desarrollo frontend**. Tengo un título de **técnico en sistemas informáticos**, con especialización y excelencia en **desarrollo web**. Actualmente, trabajo principalmente con **ReactJS y NextJS** con **TypeScript**, y para el Backend uso **NodeJS con ExpressJS** y tengo conocimientos básicos en **Java**.
+Soy **Agustín Bernardo Peredo Rodríguez**, un **desarrollador junior** con más de 1 año y 6 meses de experiencia en **desarrollo frontend**. Tengo un título de **técnico en sistemas informáticos**, con especialización y excelencia en **desarrollo web**. Actualmente, trabajo principalmente con **ReactJS y NextJS** con **TypeScript**, y para el Backend uso **NodeJS con ExpressJS**
 
 Me apasiona **aprender** y **crear soluciones innovadoras**, productivas y creativas, lo que me impulsa a seguir mejorando cada día en el mundo de la programación.
 
-🌱 **Actualmente estoy aprendiendo...**
-  - **Java(universidad)**
-  - Proyectos Full-Stack con **React, TypeScript, Tawilind** y **NodeJS, ExpressJS y PostgreSQL**
+🌱 **Actualmente estoy haciendo...**
+  - Proyectos Full-Stack con **NextJS, React, TypeScript, Tawilind** y **NodeJS y PostgreSQL**
+  - Proyectos con Inteligencia Artificial con automatizaciones
+    
+💻 **Mis últimos proyectos fueron**
 
+- **CRM + Inteligencia Artificial**  
+  Aplicación administrativa para gestión de clientes, empleados y productos.  
+  🚀 Tecnologías clave: NextJS + React, Node.js, PostgreSQL, OpenAI API  
+
+- **Administrador de clientes para clínica**  
+  Sistema diseñado para clínicas, con gráficas dinámicas, IA conversacional y calendario interactivo.  
+  🚀 Tecnologías clave: Next.js + React, PrismaORM, Chart.js, TailwindCSS 
+  
 💼 **Mis intereses incluyen**:
   - **Diseño web**
   - **Desarrollo de Aplicaiones Web**
   - **Marketing digital**
 
-👯 Estoy buscando colaborar en proyectos de **código abierto o cerrado** y también como **freelance**. Me gusta trabajar en equipo y compartir ideas para lograr soluciones eficaces y bien estructuradas.
+ Estoy buscando colaborar en proyectos de **código abierto o cerrado** y también como **freelance**. Me gusta trabajar en equipo y compartir ideas para lograr soluciones eficaces y bien estructuradas.
 
-✔ **Pregunta lo que quieras**, estaré encantado de ayudar, ¡siempre y cuando dependa de mí! 😉
+**Pregunta lo que quieras**, estaré encantado de ayudar
 
 📫 **Puedes contactarme en**: <a href="mailto:wawxper08@gmail.com">wawxper08@gmail.com</a>
 
