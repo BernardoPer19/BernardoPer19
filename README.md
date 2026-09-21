@@ -2,9 +2,11 @@
 
 <img src="https://raw.githubusercontent.com/BernardoPer19/BernardoPer19/main/assets/hero.svg" width="100%" alt="Agustín Peredo — Co-founder & Tech Lead @ ZentrAI" />
 
-<img src="https://raw.githubusercontent.com/BernardoPer19/BernardoPer19/main/assets/divider.svg" width="100%" alt="" />
+<a href="https://portafolio-agustin.vercel.app/"><img src="https://img.shields.io/badge/Portafolio-0D1117?style=flat-square&logo=vercel&logoColor=white&labelColor=0D1117&color=161B22" alt="Portafolio" /></a>
+<a href="https://www.linkedin.com/in/agustin-bernardo-peredo-rodriguez-50a1552a0"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=0D1117&color=161B22" alt="LinkedIn" /></a>
+<a href="mailto:wawxper08@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=maildotru&logoColor=A78BFA&labelColor=0D1117&color=161B22" alt="Email" /></a>
 
-<br/>
+<img src="https://raw.githubusercontent.com/BernardoPer19/BernardoPer19/main/assets/rule.svg" width="100%" alt="" />
 
 ### La mayoría de las empresas medianas de Bolivia corren sobre Excel, WhatsApp y memoria.
 
@@ -15,35 +17,23 @@ Cada mes pierden plata en cobranzas que nadie persiguió, stock que nadie contó
 
 <p><b>El software enlatado no lo resuelve: obliga a la empresa a adaptarse al sistema.<br/>Nosotros hacemos exactamente lo contrario.</b></p>
 
-<br/>
-
 <img src="https://raw.githubusercontent.com/BernardoPer19/BernardoPer19/main/assets/capabilities.svg" width="100%" alt="Cartera y cobranza · Reservas y operación · Inventario y ventas · Automatización e IA" />
 
-<br/><br/>
+<br/>
 
 <img src="https://raw.githubusercontent.com/BernardoPer19/BernardoPer19/main/assets/clients.svg" width="100%" alt="ChequeaBolivia · Importadora Martínez · Gambarte Geet Constructor" />
 
 <sub>Más sistemas entregados en barberías, talleres, turismo y prestamistas.</sub>
 
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/BernardoPer19/BernardoPer19/main/assets/divider.svg" width="100%" alt="" />
-
-<br/>
+<img src="https://raw.githubusercontent.com/BernardoPer19/BernardoPer19/main/assets/rule.svg" width="100%" alt="" />
 
 <img src="https://raw.githubusercontent.com/BernardoPer19/BernardoPer19/main/assets/process.svg" width="100%" alt="Diagnóstico · Demo real · Construcción por etapas · Instalación" />
 
-<br/>
-
 <img src="https://raw.githubusercontent.com/BernardoPer19/BernardoPer19/main/assets/stack.svg" width="100%" alt="TypeScript · Next.js · React · Node.js · PostgreSQL · Prisma · Tailwind · Express · Vercel · OpenAI & Claude API · n8n" />
 
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/BernardoPer19/BernardoPer19/main/assets/divider.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/BernardoPer19/BernardoPer19/main/assets/rule.svg" width="100%" alt="" />
 
 </div>
-
-<br/>
 
 ## Mi rol
 
@@ -51,19 +41,11 @@ Llevo la parte técnica de punta a punta — **arquitectura, desarrollo, desplie
 
 Eso me obliga a programar distinto. No optimizo por el repo que se ve lindo: optimizo por el sistema que la empresa **sigue usando dos años después**. Nadie te aplaude un patrón elegante cuando el arqueo del día no cuadra.
 
-<br/>
-
 <div align="center">
 
 <a href="mailto:wawxper08@gmail.com">
   <img src="https://raw.githubusercontent.com/BernardoPer19/BernardoPer19/main/assets/cta.svg" width="100%" alt="Escribime a wawxper08@gmail.com" />
 </a>
-
-<!-- Cuando tengas web de ZentrAI / LinkedIn / link para agendar, sumalos acá:
-<a href="TU_LINK"><img src="https://img.shields.io/badge/Agendar_llamada-0D1117?style=for-the-badge&labelColor=0D1117&color=161B22" /></a>
--->
-
-<br/>
 
 <details>
 <summary><sub>&nbsp;métricas de GitHub&nbsp;</sub></summary>
@@ -73,8 +55,6 @@ Eso me obliga a programar distinto. No optimizo por el repo que se ve lindo: opt
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoPer19&layout=compact&langs_count=6&hide_border=true&bg_color=0A0C11&title_color=A78BFA&text_color=79839A" />
 
 </details>
-
-<br/>
 
 <sub>Cochabamba, Bolivia</sub>
 
