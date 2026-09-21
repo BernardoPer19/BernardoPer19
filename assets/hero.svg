@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" width="1200" height="380" role="img" aria-label="Agustin Peredo — Co-founder y Tech Lead en ZentrAI">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#07080B"/>
+      <stop offset="55%" stop-color="#0A0C11"/>
+      <stop offset="100%" stop-color="#0D0F16"/>
+    </linearGradient>
+
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" fill="none" stroke="#151A24" stroke-width="1"/>
+    </pattern>
+
+    <radialGradient id="orbA" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.34"/>
+      <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orbB" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.26"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="fade" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#07080B" stop-opacity="0.95"/>
+    </radialGradient>
+
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
+    </linearGradient>
+
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#A78BFA" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="node" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#A78BFA"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
+    </linearGradient>
+
+    <filter id="soft" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="9"/>
+    </filter>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <path id="l1" d="M902 112 L988 182"/>
+    <path id="l2" d="M1090 124 L988 182"/>
+    <path id="l3" d="M884 258 L988 182"/>
+    <path id="l4" d="M1092 252 L988 182"/>
+  </defs>
+
+  <!-- fondo -->
+  <rect width="1200" height="380" fill="url(#bg)"/>
+  <rect width="1200" height="380" fill="url(#grid)"/>
+  <ellipse cx="180" cy="40" rx="440" ry="300" fill="url(#orbA)"/>
+  <ellipse cx="1050" cy="330" rx="420" ry="280" fill="url(#orbB)"/>
+  <rect width="1200" height="380" fill="url(#fade)"/>
+
+  <!-- barrido -->
+  <rect x="-420" y="0" width="420" height="380" fill="url(#sweep)">
+    <animate attributeName="x" values="-420;1200" dur="7s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- marcos de esquina -->
+  <g stroke="#2A3140" stroke-width="1.5" fill="none">
+    <path d="M40 74 L40 46 L68 46"/>
+    <path d="M1160 74 L1160 46 L1132 46"/>
+    <path d="M40 306 L40 334 L68 334"/>
+    <path d="M1160 306 L1160 334 L1132 334"/>
+  </g>
+
+  <!-- texto -->
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <g font-family="ui-monospace, 'SF Mono', 'Cascadia Code', Menlo, Consolas, monospace">
+      <circle cx="76" cy="94" r="3.5" fill="#22D3EE">
+        <animate attributeName="opacity" values="1;0.15;1" dur="2.4s" repeatCount="indefinite"/>
+      </circle>
+      <text x="92" y="99" font-size="13" letter-spacing="4.5" fill="#6B7687">ZENTRAI &#8212; COCHABAMBA, BOLIVIA</text>
+    </g>
+
+    <text x="74" y="186" font-size="74" font-weight="800" letter-spacing="-1.5" fill="#FFFFFF">AGUSTÍN PEREDO</text>
+
+    <rect x="76" y="212" width="78" height="4" rx="2" fill="url(#rule)"/>
+
+    <text x="74" y="256" font-size="20" font-weight="600" letter-spacing="0.4" fill="#C6CDDA">Co-founder &amp; Tech Lead</text>
+
+    <g font-family="ui-monospace, 'SF Mono', 'Cascadia Code', Menlo, Consolas, monospace" font-size="15" fill="#8B5CF6">
+      <text x="74" y="300" opacity="0">
+        Software a medida para empresas que ya no entran en un Excel.
+        <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.03;0.30;0.35;1" dur="12s" begin="0s" repeatCount="indefinite"/>
+      </text>
+      <text x="74" y="300" opacity="0">
+        Sistemas en producción, no prototipos de portafolio.
+        <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.03;0.30;0.35;1" dur="12s" begin="4s" repeatCount="indefinite"/>
+      </text>
+      <text x="74" y="300" opacity="0">
+        Del relevamiento al sistema corriendo en la empresa.
+        <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.03;0.30;0.35;1" dur="12s" begin="8s" repeatCount="indefinite"/>
+      </text>
+    </g>
+  </g>
+
+  <!-- cluster de nodos -->
+  <g>
+    <g stroke="#242B3A" stroke-width="1.4" fill="none">
+      <use href="#l1"/><use href="#l2"/><use href="#l3"/><use href="#l4"/>
+    </g>
+
+    <g fill="#22D3EE">
+      <circle r="3">
+        <animateMotion dur="2.6s" repeatCount="indefinite"><mpath href="#l1"/></animateMotion>
+        <animate attributeName="opacity" values="0;1;1;0" dur="2.6s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="3">
+        <animateMotion dur="3.4s" begin="0.7s" repeatCount="indefinite"><mpath href="#l2"/></animateMotion>
+        <animate attributeName="opacity" values="0;1;1;0" dur="3.4s" begin="0.7s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="3">
+        <animateMotion dur="3s" begin="1.4s" repeatCount="indefinite"><mpath href="#l3"/></animateMotion>
+        <animate attributeName="opacity" values="0;1;1;0" dur="3s" begin="1.4s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="3">
+        <animateMotion dur="3.8s" begin="2.1s" repeatCount="indefinite"><mpath href="#l4"/></animateMotion>
+        <animate attributeName="opacity" values="0;1;1;0" dur="3.8s" begin="2.1s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <g fill="#0D1017" stroke="#39425A" stroke-width="1.5">
+      <circle cx="902" cy="112" r="9"/>
+      <circle cx="1090" cy="124" r="9"/>
+      <circle cx="884" cy="258" r="9"/>
+      <circle cx="1092" cy="252" r="9"/>
+    </g>
+
+    <circle cx="988" cy="182" r="30" fill="none" stroke="#8B5CF6" stroke-width="1.5" opacity="0.5">
+      <animate attributeName="r" values="30;76" dur="3.2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.5;0" dur="3.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="988" cy="182" r="30" fill="none" stroke="#22D3EE" stroke-width="1.5" opacity="0.4">
+      <animate attributeName="r" values="30;76" dur="3.2s" begin="1.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.4;0" dur="3.2s" begin="1.6s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="988" cy="182" r="34" fill="#8B5CF6" opacity="0.25" filter="url(#soft)"/>
+    <circle cx="988" cy="182" r="26" fill="url(#node)" filter="url(#glow)"/>
+    <text x="988" y="189" text-anchor="middle" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="17" font-weight="700" fill="#07080B">AP</text>
+  </g>
+</svg>

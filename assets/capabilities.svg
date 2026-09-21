@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 250" width="1200" height="250" role="img" aria-label="Que construimos: cartera y cobranza, reservas y operaciones, inventario y ventas, automatizacion e IA">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0C0F16"/>
+      <stop offset="100%" stop-color="#080A0F"/>
+    </linearGradient>
+  </defs>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+
+    <!-- 01 -->
+    <g transform="translate(0,0)">
+      <rect width="279" height="250" rx="14" fill="url(#panel)" stroke="#191E29" stroke-width="1"/>
+      <rect x="1" y="1" width="277" height="3" rx="1.5" fill="url(#accent)" opacity="0.15">
+        <animate attributeName="opacity" values="0.15;1;0.15" dur="8s" begin="0s" repeatCount="indefinite"/>
+      </rect>
+      <g stroke="#39425A" stroke-width="1.6" fill="none" stroke-linecap="round">
+        <path d="M228 60 L228 40"/><path d="M238 60 L238 30"/><path d="M248 60 L248 46"/>
+        <path d="M222 66 L254 66"/>
+      </g>
+      <text x="26" y="46" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="12" letter-spacing="3" fill="#8B5CF6">01</text>
+      <text x="26" y="98" font-size="19" font-weight="700" fill="#FFFFFF">Cartera y cobranza</text>
+      <text x="26" y="134" font-size="13.5" fill="#79839A">
+        <tspan x="26" dy="0">Clientes, planes de pago, mora,</tspan>
+        <tspan x="26" dy="21">contratos y arqueo diario.</tspan>
+        <tspan x="26" dy="21" fill="#22D3EE">Producto propio, en producción.</tspan>
+      </text>
+    </g>
+
+    <!-- 02 -->
+    <g transform="translate(307,0)">
+      <rect width="279" height="250" rx="14" fill="url(#panel)" stroke="#191E29" stroke-width="1"/>
+      <rect x="1" y="1" width="277" height="3" rx="1.5" fill="url(#accent)" opacity="0.15">
+        <animate attributeName="opacity" values="0.15;1;0.15" dur="8s" begin="2s" repeatCount="indefinite"/>
+      </rect>
+      <g stroke="#39425A" stroke-width="1.6" fill="none" stroke-linecap="round">
+        <rect x="222" y="36" width="32" height="30" rx="4"/>
+        <path d="M222 46 L254 46"/><path d="M230 32 L230 40"/><path d="M246 32 L246 40"/>
+      </g>
+      <text x="26" y="46" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="12" letter-spacing="3" fill="#8B5CF6">02</text>
+      <text x="26" y="98" font-size="19" font-weight="700" fill="#FFFFFF">Reservas y operación</text>
+      <text x="26" y="134" font-size="13.5" fill="#79839A">
+        <tspan x="26" dy="0">Turismo, transporte y servicios:</tspan>
+        <tspan x="26" dy="21">agenda, disponibilidad y</tspan>
+        <tspan x="26" dy="21">confirmaciones sin llamadas.</tspan>
+      </text>
+    </g>
+
+    <!-- 03 -->
+    <g transform="translate(614,0)">
+      <rect width="279" height="250" rx="14" fill="url(#panel)" stroke="#191E29" stroke-width="1"/>
+      <rect x="1" y="1" width="277" height="3" rx="1.5" fill="url(#accent)" opacity="0.15">
+        <animate attributeName="opacity" values="0.15;1;0.15" dur="8s" begin="4s" repeatCount="indefinite"/>
+      </rect>
+      <g stroke="#39425A" stroke-width="1.6" fill="none" stroke-linejoin="round">
+        <path d="M238 30 L254 39 L254 57 L238 66 L222 57 L222 39 Z"/>
+        <path d="M222 39 L238 48 L254 39"/><path d="M238 48 L238 66"/>
+      </g>
+      <text x="26" y="46" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="12" letter-spacing="3" fill="#8B5CF6">03</text>
+      <text x="26" y="98" font-size="19" font-weight="700" fill="#FFFFFF">Inventario y ventas</text>
+      <text x="26" y="134" font-size="13.5" fill="#79839A">
+        <tspan x="26" dy="0">Stock, importación, márgenes y</tspan>
+        <tspan x="26" dy="21">reportes que el dueño entiende</tspan>
+        <tspan x="26" dy="21">sin necesitar capacitación.</tspan>
+      </text>
+    </g>
+
+    <!-- 04 -->
+    <g transform="translate(921,0)">
+      <rect width="279" height="250" rx="14" fill="url(#panel)" stroke="#191E29" stroke-width="1"/>
+      <rect x="1" y="1" width="277" height="3" rx="1.5" fill="url(#accent)" opacity="0.15">
+        <animate attributeName="opacity" values="0.15;1;0.15" dur="8s" begin="6s" repeatCount="indefinite"/>
+      </rect>
+      <g stroke="#39425A" stroke-width="1.6" fill="none" stroke-linecap="round">
+        <circle cx="238" cy="48" r="6"/>
+        <circle cx="224" cy="34" r="3.5"/><circle cx="252" cy="34" r="3.5"/>
+        <circle cx="224" cy="62" r="3.5"/><circle cx="252" cy="62" r="3.5"/>
+        <path d="M227 37 L234 44"/><path d="M249 37 L242 44"/>
+        <path d="M227 59 L234 52"/><path d="M249 59 L242 52"/>
+      </g>
+      <text x="26" y="46" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="12" letter-spacing="3" fill="#8B5CF6">04</text>
+      <text x="26" y="98" font-size="19" font-weight="700" fill="#FFFFFF">Automatización e IA</text>
+      <text x="26" y="134" font-size="13.5" fill="#79839A">
+        <tspan x="26" dy="0">Adentro del flujo de trabajo</tspan>
+        <tspan x="26" dy="21">real de la empresa. No como</tspan>
+        <tspan x="26" dy="21">demo de feria.</tspan>
+      </text>
+    </g>
+
+  </g>
+</svg>

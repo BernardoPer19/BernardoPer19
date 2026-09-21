@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 170" width="1200" height="170" role="img" aria-label="Proceso: diagnostico, demo real, construccion por etapas, instalacion">
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
+    </linearGradient>
+    <path id="track" d="M150 58 L1050 58"/>
+  </defs>
+
+  <line x1="150" y1="58" x2="1050" y2="58" stroke="#1B2030" stroke-width="2"/>
+  <line x1="150" y1="58" x2="1050" y2="58" stroke="url(#line)" stroke-width="2"
+        stroke-dasharray="900" stroke-dashoffset="900">
+    <animate attributeName="stroke-dashoffset" values="900;0;0;900" keyTimes="0;0.45;0.85;1" dur="9s" repeatCount="indefinite"/>
+  </line>
+
+  <circle r="4" fill="#22D3EE">
+    <animateMotion dur="9s" keyPoints="0;1;1;0" keyTimes="0;0.45;0.85;1" calcMode="linear" repeatCount="indefinite">
+      <mpath href="#track"/>
+    </animateMotion>
+  </circle>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" text-anchor="middle">
+
+    <g transform="translate(150,0)">
+      <circle cx="0" cy="58" r="19" fill="#0A0C12" stroke="#8B5CF6" stroke-width="1.8"/>
+      <text x="0" y="63" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="13" font-weight="700" fill="#A78BFA">01</text>
+      <text x="0" y="112" font-size="15" font-weight="700" letter-spacing="1.6" fill="#FFFFFF">DIAGNÓSTICO</text>
+      <text x="0" y="136" font-size="12.5" fill="#6F7A8E">Cómo opera hoy tu empresa</text>
+    </g>
+
+    <g transform="translate(450,0)">
+      <circle cx="0" cy="58" r="19" fill="#0A0C12" stroke="#9268F3" stroke-width="1.8"/>
+      <text x="0" y="63" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="13" font-weight="700" fill="#A78BFA">02</text>
+      <text x="0" y="112" font-size="15" font-weight="700" letter-spacing="1.6" fill="#FFFFFF">DEMO REAL</text>
+      <text x="0" y="136" font-size="12.5" fill="#6F7A8E">La ves andando antes de firmar</text>
+    </g>
+
+    <g transform="translate(750,0)">
+      <circle cx="0" cy="58" r="19" fill="#0A0C12" stroke="#5C9AE8" stroke-width="1.8"/>
+      <text x="0" y="63" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="13" font-weight="700" fill="#7DB3F0">03</text>
+      <text x="0" y="112" font-size="15" font-weight="700" letter-spacing="1.6" fill="#FFFFFF">CONSTRUCCIÓN</text>
+      <text x="0" y="136" font-size="12.5" fill="#6F7A8E">Por etapas, aprobás cada una</text>
+    </g>
+
+    <g transform="translate(1050,0)">
+      <circle cx="0" cy="58" r="19" fill="#0A0C12" stroke="#22D3EE" stroke-width="1.8"/>
+      <text x="0" y="63" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="13" font-weight="700" fill="#22D3EE">04</text>
+      <text x="0" y="112" font-size="15" font-weight="700" letter-spacing="1.6" fill="#FFFFFF">INSTALACIÓN</text>
+      <text x="0" y="136" font-size="12.5" fill="#6F7A8E">Corriendo y tu gente capacitada</text>
+    </g>
+
+  </g>
+</svg>
