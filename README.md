@@ -21,7 +21,7 @@ Cada mes pierden plata en cobranzas que nadie persiguió, stock que nadie contó
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/BernardoPer19/BernardoPer19/main/assets/clients.svg" width="100%" alt="ChequeaBolivia · Importadora Martínez · Gambarte Geet Constructor" />
+<img src="https://raw.githubusercontent.com/BernardoPer19/BernardoPer19/main/assets/clients.svg" width="100%" alt="ChequeaBolivia · Prenda Tu Oro · Dicamo · Despacho Suearez · Importadora Martínez · Gambarte Geet Constructor" />
 
 <sub>Más sistemas entregados en barberías, talleres, turismo y prestamistas.</sub>
 
